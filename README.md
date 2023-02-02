@@ -1,1 +1,1 @@
-# Cadastro de pecas....pecas so sao admitidas se nao excederam o peso limite
+# Cadastro de peças....so sao admitidas se nao excederam o peso limite
